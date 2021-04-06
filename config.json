@@ -1,0 +1,15 @@
+{
+    "CLIENT_ID": "823324036653121546",
+    "rpc_activity": {
+        "details": "BOTS RAILGUN YA DISPONIBLES!",
+        "state": "Bots Gratis | Activos 24/7",
+        "largeImageKey": "1",
+        "smallImageKey": "2",
+        "largeImageText": "un-poco-de-gaming.webnode.es",
+        "smallImageText": "NodeJs Developer",
+        "buttons": [
+            { "label": "RAILBAN PROJECT", "url": "https://discord.com/oauth2/authorize?client_id=743905769463742554&scope=bot&permissions=8" },
+            { "label": "RAILMUSIC PROJECT", "url": "https://discord.com/oauth2/authorize?client_id=785943605880553542&permissions=70282305&scope=bot" }
+        ]
+    }   
+}
